@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Timora</string>
+    <string name="GOOGLE_MAPS_API_KEY">AIzaSyD1kHCFxGTyriHizMi3neCJdzRvLnvcH8A</string>
+    <!-- System Texts-->
+    <string name="onboard_1">Xush kelibsiz!</string>
+    <string name="onboard_2">Ishlarni rejalashtirish</string>
+    <string name="onboard_3">Boshlash va natijalarga erishish !</string>
+    <string name="menuHome">Home</string>
+    <string name="menuToDoList">To Do List</string>
+    <string name="menuSettings">Settings</string>
+    <string name="menuUser">User</string>
+    <string name="home">Home</string>
+    <string name="rating_app">Rating App</string>
+    <string name="connect_admin">Connect to admin</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="notification_title">Bildirishnoma nomi</string>
+    <string name="notification_add_text">Yangi bildirishnoma kiritish</string>
+    <string name="set_notification_date_and_time">Bildirishnoma vaqti va sanasini kiritish</string>
+    <string name="set_notification_location">Bildirishnoma manzilini kiritish</string>
+    <string name="notification_description">Bildirishnoma xabari</string>
+    <string name="notification_add">Add Notification</string>
+    <string name="notification_time">Vaqt va Sana</string>
+    <string name="notification_location">Manzil</string>
+    <string name="chooseType">Bildirishnoma turini tanlang :</string>
+    <!-- System Texts-->
+    <string name="logIn">Log In</string>
+    <string name="password">Password</string>
+    <string name="userName">User Name</string>
+    <string name="logInText">Timora hisobingiz yo\'qmi ?</string>
+    <string name="signInText">Timora hisobingiz bormi ?</string>
+    <string name="user">User</string>
+    <string name="deleteAccount">Delete Account</string>
+    <string name="logOut">LogOut</string>
+    <string name="signIn">Ro\'yhatdan o\'tish</string>
+    <string name="rePassword">RePassword</string>
+    <string name="delete_account_text">Siz Timora akkountini o\'chirmoqchimisiz ?</string>
+    <string name="delete_notification_text">Siz Notificationni o\'chirmoqchimisiz ?</string>
+    <string name="logout_dialog_text">Siz Timora akkountidan chiqmoqchimisiz ?</string>
+    <string name="yes">Ha</string>
+    <string name="no">Yo\'q</string>
+    <string name="emptyNotify">Bildirishnomalar hozircha \nyo\'q !</string>
+    <string name="emptyToDoList">Vazifalar hozircha yo\'q</string>
+    <string name="add">Add</string>
+    <string name="default_web_client_id">1094228729892-rkpupcd9dhovc5hq0kdovmtf5ucetgvr.apps.googleusercontent.com</string>
+    <!-- Settings texts-->
+    <string name="lang_uz">UZB</string>
+    <string name="lang_en">ENG</string>
+    <string name="lang_default">uz</string>
+    <string name="choose_lang">Choose language :</string>
+</resources>

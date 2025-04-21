@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="whiteGreen">#00ff19</color>
+    <color name="appTheme">@color/yumshoqKok</color>
+    <color name="pressed_color">#FF5722</color>  <!-- Qizg‘ish -->
+    <color name="focused_color">#FFC107</color>  <!-- Sariq -->
+    <color name="default_color">#2196F3</color>  <!-- Ko‘k -->
+    <color name="whiteBlue">#2196F3</color>
+    <color name="materialBlue">#64FFDA</color>
+    <color name="whiteBlue2">#00fff7</color>
+    <color name="regColor">#47FD7A</color>
+    <color name="logColor">#9AE3F0</color>
+    <color name="yumshoqKok">#A7C7E7</color>
+    <color name="yumshoqKok2">#90CAF9</color>
+</resources>

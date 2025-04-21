@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1094228729892",
+    "firebase_url": "https://timora-app-default-rtdb.firebaseio.com",
+    "project_id": "timora-app",
+    "storage_bucket": "timora-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094228729892:android:c9d7288b794cdd0663f8b1",
+        "android_client_info": {
+          "package_name": "uz.kmax.timora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmPgqgacroYH2rwYKsW6qWOL3g9aVPTG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
